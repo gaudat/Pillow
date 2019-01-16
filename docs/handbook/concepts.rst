@@ -27,7 +27,7 @@ Modes
 The ``mode`` of an image defines the type and depth of a pixel in the
 image. The current release supports the following standard modes:
 
-    * ``1`` (1-bit pixels, black and white, stored with one pixel per byte)
+    * ``1`` (1-bit pixels, black and white, stored with one pixel per bit)
     * ``L`` (8-bit pixels, black and white)
     * ``P`` (8-bit pixels, mapped to any other mode using a color palette)
     * ``RGB`` (3x8-bit pixels, true color)
